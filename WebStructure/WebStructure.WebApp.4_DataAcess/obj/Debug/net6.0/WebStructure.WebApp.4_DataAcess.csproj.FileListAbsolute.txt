@@ -1,0 +1,17 @@
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\WebStructure.WebApp.4_DataAcess.csproj.AssemblyReference.cache
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\WebStructure.WebApp.4_DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\WebStructure.WebApp.4_DataAcess.AssemblyInfoInputs.cache
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\WebStructure.WebApp.4_DataAcess.AssemblyInfo.cs
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\WebStructure.WebApp.4_DataAcess.csproj.CoreCompileInputs.cache
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\bin\Debug\net6.0\WebStructure.WebApp.4_DataAcess.deps.json
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\bin\Debug\net6.0\WebStructure.WebApp.4_DataAcess.dll
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\bin\Debug\net6.0\WebStructure.WebApp.4_DataAcess.pdb
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\bin\Debug\net6.0\WebStructure.Common.Enums.dll
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\bin\Debug\net6.0\WebStructure.Common.Models.dll
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\bin\Debug\net6.0\WebStructure.Common.Models.pdb
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\bin\Debug\net6.0\WebStructure.Common.Enums.pdb
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\WebStructure.WebApp.4_DataAcess.csproj.CopyComplete
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\WebStructure.WebApp.4_DataAcess.dll
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\refint\WebStructure.WebApp.4_DataAcess.dll
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\WebStructure.WebApp.4_DataAcess.pdb
+D:\DotNetCore\WebStructure\WebStructure.WebApp.4_DataAcess\obj\Debug\net6.0\ref\WebStructure.WebApp.4_DataAcess.dll

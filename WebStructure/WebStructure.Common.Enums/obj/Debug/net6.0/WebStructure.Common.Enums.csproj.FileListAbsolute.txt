@@ -1,0 +1,12 @@
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\WebStructure.Common.Enums.csproj.AssemblyReference.cache
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\WebStructure.Common.Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\WebStructure.Common.Enums.AssemblyInfoInputs.cache
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\WebStructure.Common.Enums.AssemblyInfo.cs
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\WebStructure.Common.Enums.csproj.CoreCompileInputs.cache
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\bin\Debug\net6.0\WebStructure.Common.Enums.deps.json
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\bin\Debug\net6.0\WebStructure.Common.Enums.dll
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\bin\Debug\net6.0\WebStructure.Common.Enums.pdb
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\WebStructure.Common.Enums.dll
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\refint\WebStructure.Common.Enums.dll
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\WebStructure.Common.Enums.pdb
+D:\DotNetCore\WebStructure\WebStructure.Common.Enums\obj\Debug\net6.0\ref\WebStructure.Common.Enums.dll
